@@ -17,5 +17,9 @@ Mammals are divided into **three groups - monotremes, marsupials and placentals,
 - have hair or fur
 - have a unique jaw structure are warm-blooded
 
+| Our Star Mammal  | Presenting |
+| ------------- | ------------- |
+| Golden Retriever Dog (Maxy)  | <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/Bormey-Sky/Pixel-Zoo/edit/main/mammals/mammals.md#:~:text=Maxy_gif.-,gif,-dogs.md)" width="40" height="40" />
+  |
 
 _Amazing resource : https://australian.museum/learn/species-identification/ask-an-expert/what-is-a-mammal/#:~:text=Mammals%20are%20divided%20into%20three,milk%20and%20are%20warm%2Dblooded._
